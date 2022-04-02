@@ -105,16 +105,16 @@ export default {
           "alias": "Charles Whitman",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
-          "frame": "Sagarmantha",
-          "mech": "Chair of Shame"
+          "frame": "Sagarmatha",
+          "mech": "Boom Boom"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
+          "callsign": "Virtue",
+          "alias": "Landon Michaelson",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Necrophile"
+          "frame": "Sagarmatha",
+          "mech": "Headhunter"
         },
         {
           "callsign": "Starboard",
