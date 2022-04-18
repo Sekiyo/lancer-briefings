@@ -153,10 +153,10 @@ export default {
         {
           "callsign": "MacGuffin",
           "alias": "Drake",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "dRS4g9u-hU4p-g4uF-6t6D-1akZ8t8bK2eu///NDL-C-DEEP-STATION//zJsiK6e-iVsV-RXVQ-9hz0-P8q0sXWPn6y7",
           "corpro": "GMS",
           "frame": "Sagarmatha",
-          "mech": ".Colt 45"
+          "mech": "Colt .45"
         },
       ],
       "header": {
