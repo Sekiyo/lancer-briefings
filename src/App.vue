@@ -104,9 +104,9 @@ export default {
           "callsign": "Monsoon",
           "alias": "Charles Whitman",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Boom Boom"
+          "corpro": "HA",
+          "frame": "'Worldkiller' Genghis Mk1",
+          "mech": "Burn Baby Burn"
         },
         {
           "callsign": "Virtue",
@@ -139,6 +139,14 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Honey"
+        },
+        {
+          "callsign": "MacGuffin",
+          "alias": "Drake",
+          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "corpro": "GMS",
+          "frame": "Sagarmatha",
+          "mech": ".Colt 45"
         },
       ],
       "header": {
