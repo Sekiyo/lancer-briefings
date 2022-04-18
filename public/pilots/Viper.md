@@ -1,0 +1,3 @@
+Viper (alias Frank Milton) is a MSMC mercenary, currently within the 601st Detachment of it. He is a notably talented sniper, prefering to engage in ranged combat in mechanized chassis. He is additionally skilled in remaining hidden while in a mechanized chassis, often even while in plain sight. Due to his expertise in these fields, the "Sting" Heavy Anti-Armor Rifle the 601st Detachment salvaged from a destroyed "Viper" STRIDER mechanized chassis is currently within his possession, making him quite a notable foe.
+
+Currently, he possesses a Rank I license in the Smith-Shimano Corpo Swallowtail, although he pilots a General Massive Systems SP-1 "Everest".
