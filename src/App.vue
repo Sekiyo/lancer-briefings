@@ -158,6 +158,14 @@ export default {
           "frame": "Sagarmatha",
           "mech": "Colt .45"
         },
+        {
+          "callsign": "Solstice",
+          "alias": "Emyle 'Eddie' Smith",
+          "code": "xu5Wwdm-bGUR-qSdu-zchj-2hQG0pEHhO6///NDL-C-X//7eFNJHF-giyl-NsNN-hWTB-EzvII8peEDc",
+          "corpro": "GMS",
+          "frame": "Sagarmatha",
+          "mech": "Dumb Temporary Hunk of Metal"
+        },
       ],
       "header": {
         "planet": "Hercynia",
