@@ -160,11 +160,11 @@ export default {
         },
         {
           "callsign": "Solstice",
-          "alias": "Emyle 'Eddie' Smith",
-          "code": "xu5Wwdm-bGUR-qSdu-zchj-2hQG0pEHhO6///NDL-C-X//7eFNJHF-giyl-NsNN-hWTB-EzvII8peEDc",
+          "alias": "Emyle Smith",
+          "code": "xu5Wwdm-bGUR-qSdu-zchj-2hQG0pEHhO6///NDL-C-DEEP-STATION//7eFNJHF-giyl-NsNN-hWTB-EzvII8peEDc",
           "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Dumb Temporary Hunk of Metal"
+          "frame": "Everest",
+          "mech": "Prototype-Equinox"
         },
       ],
       "header": {
