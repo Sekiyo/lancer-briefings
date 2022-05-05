@@ -106,6 +106,16 @@ export default {
         {
           "slug": "003",
           "name": "Knife through the Heart",
+          "status": "success"
+        },
+        {
+          "slug": "004",
+          "name": "Adventuring Party",
+          "status": "success"
+        },
+        {
+          "slug": "005",
+          "name": "Floodgate",
           "status": "start"
         },
       ],
