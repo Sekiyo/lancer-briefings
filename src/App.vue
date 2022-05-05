@@ -114,57 +114,57 @@ export default {
           "callsign": "Monsoon",
           "alias": "Charles Whitman",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "HA",
-          "frame": "'Worldkiller' Genghis Mk1",
-          "mech": "Burn Baby Burn"
+          "corpro": "SSC",
+          "frame": "Monarch",
+          "mech": "Broken King"
         },
         {
           "callsign": "Virtue",
           "alias": "Landon Michaelson",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Headhunter"
+          "corpro": "HORUS",
+          "frame": "Goblin",
+          "mech": "Wazz"
         },
         {
           "callsign": "Viper",
           "alias": "Frank Milton",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "The Final Act of Time and Reason"
+          "corpro": "SSC",
+          "frame": "Death's Head",
+          "mech": "God Slayer"
         },
         {
           "callsign": "Frontliner",
           "alias": "Rico Burges",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Stupid Robot"
+          "corpro": "HA",
+          "frame": "Enkidu",
+          "mech": "Decent Robot"
         },
         {
           "callsign": "Tangent",
           "alias": 'Bee Kunselman',
           "code": "WmVwXvfj-Z1Dv-3jD2-k5bLJBuO3w764wAkA///NDL-C-DEEP-STATION//nykdf0KW-jUyz-IrZG-qalS-zZ8gmKWuPLhGG",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Honey"
+          "corpro": "IPS-N",
+          "frame": "Kidd",
+          "mech": "Carpenter"
         },
         {
           "callsign": "MacGuffin",
           "alias": "Drake",
           "code": "dRS4g9u-hU4p-g4uF-6t6D-1akZ8t8bK2eu///NDL-C-DEEP-STATION//zJsiK6e-iVsV-RXVQ-9hz0-P8q0sXWPn6y7",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Colt .45"
+          "corpro": "IPS-N",
+          "frame": "Zheng",
+          "mech": "Pancake"
         },
         {
           "callsign": "Solstice",
           "alias": "Emyle Smith",
           "code": "xu5Wwdm-bGUR-qSdu-zchj-2hQG0pEHhO6///NDL-C-DEEP-STATION//7eFNJHF-giyl-NsNN-hWTB-EzvII8peEDc",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Prototype-Equinox"
+          "corpro": "SSC",
+          "frame": "Dusk Wing",
+          "mech": "Equinox"
         },
       ],
       "header": {
