@@ -158,7 +158,7 @@ export default {
         {
           "callsign": "Loki",
           "alias": "Valarie Cantu",
-          "code": "nykdf0KW-jUyz-IrZG-qalS-zZ8gmKWuPLhGG///NDL-C-DEEP-STATION//WmVwXvfj-Z1Dv-3jD2-k5bLJBuO3w764wAkA",
+          "code": "nykgf0KW-jUyz-IrZG-qalS-zZ8gtKWuPLhGG///NDL-C-DEEP-STATION//WmVwXvfj-Z1Dv-3jD2-k5bqJBuO3w764wAkA",
           "corpro": "HORUS",
           "frame": "Lich",
           "mech": "Fool Me Once"
