@@ -145,12 +145,15 @@ export default {
           "mech": "God Slayer"
         },
         {
-          "callsign": "Frontliner",
-          "alias": "Rico Burges",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "HA",
-          "frame": "Enkidu",
-          "mech": "Decent Robot"
+          "callsign": "MacGuffin",
+          "alias": "Drake",
+          "code": "dRS4g9u-hU4p-g4uF-6t6D-1akZ8t8bK2eu///NDL-C-DEEP-STATION//zJsiK6e-iVsV-RXVQ-9hz0-P8q0sXWPn6y7",
+          "corpro": "GMS",
+          "frame": "Sagarmatha",
+          "mech": "Colt .45"
+          "corpro": "IPS-N",
+          "frame": "Zheng",
+          "mech": "Pancake"
         },
         {
           "callsign": "Loki",
