@@ -145,12 +145,12 @@ export default {
           "mech": "God Slayer"
         },
         {
-          "callsign": "Tangent",
-          "alias": 'Bee Kunselman',
-          "code": "WmVwXvfj-Z1Dv-3jD2-k5bLJBuO3w764wAkA///NDL-C-DEEP-STATION//nykdf0KW-jUyz-IrZG-qalS-zZ8gmKWuPLhGG",
-          "corpro": "IPS-N",
-          "frame": "Kidd",
-          "mech": "Carpenter"
+          "callsign": "Loki",
+          "alias": 'Valarie Cantu',
+          "code": "nykdf0KW-jUyz-IrZG-qalS-zZ8gmKWuPLhGG///NDL-C-DEEP-STATION//WmVwXvfj-Z1Dv-3jD2-k5bLJBuO3w764wAkA",
+          "corpro": "HORUS",
+          "frame": "Lich",
+          "mech": "Fool Me Once"
         },
         {
           "callsign": "MacGuffin",
